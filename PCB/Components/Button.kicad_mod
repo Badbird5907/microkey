@@ -1,0 +1,135 @@
+(footprint "Button"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f5aea9d6-3974-4fa5-a5dc-34255867e86b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Button"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1d904837-9784-45b0-a622-13ac619f3edb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b1bc484-cbd8-4e84-90da-cafd3c5c08c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a91dc01-3170-4204-9eca-3bfa1a6310ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 2.354793 9.116222) (xy 2.315551 8.818153) (xy 2.23774 8.527756) (xy 2.12269 8.25) (xy 1.972369 7.989638)
+			(xy 1.78935 7.751123) (xy 1.576765 7.538538) (xy 1.33825 7.355519) (xy 1.077888 7.205198) (xy 0.800132 7.090148)
+			(xy 0.509735 7.012337) (xy 0.211666 6.973095) (xy -0.088976 6.973095) (xy -0.387045 7.012337) (xy -0.677442 7.090148)
+			(xy -0.955198 7.205198) (xy -1.21556 7.355519) (xy -1.454075 7.538538) (xy -1.66666 7.751123) (xy -1.849679 7.989638)
+			(xy -2 8.25) (xy -2.11505 8.527756) (xy -2.192861 8.818153) (xy -2.232103 9.116222) (xy -2.232103 9.416864)
+			(xy -2.192861 9.714933) (xy -2.11505 10.00533) (xy -2 10.283086) (xy -1.849679 10.543448) (xy -1.66666 10.781963)
+			(xy -1.454075 10.994548) (xy -1.21556 11.177567) (xy -0.955198 11.327888) (xy -0.677442 11.442938)
+			(xy -0.387045 11.520749) (xy -0.088976 11.559991) (xy 0.211666 11.559991) (xy 0.509735 11.520749)
+			(xy 0.800132 11.442938) (xy 1.077888 11.327888) (xy 1.33825 11.177567) (xy 1.576765 10.994548) (xy 1.78935 10.781963)
+			(xy 1.972369 10.543448) (xy 2.12269 10.283086) (xy 2.23774 10.00533) (xy 2.315551 9.714933) (xy 2.354793 9.416864)
+			(xy 2.354793 9.116222)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "3ace9bd1-6be3-4db8-b321-cdf8c52ef00e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "51b5e0dd-36f4-4696-a02c-7e5210c7042f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -2.50226 9.926835)
+		(size 2.54 2.54)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(arc
+						(start 1.24 -0.671505)
+						(mid 2.49 0.578495)
+						(end 3.74 -0.671505)
+					)
+					(arc
+						(start 7.49 -0.671505)
+						(mid 2.49 4.328495)
+						(end -2.51 -0.671505)
+					)
+				)
+				(width 0)
+				(fill yes)
+			)
+			(gr_poly
+				(pts
+					(arc
+						(start 7.49 -0.671505)
+						(mid 2.49 -5.671505)
+						(end -2.51 -0.671505)
+					)
+					(arc
+						(start 1.24 -0.671505)
+						(mid 2.49 -1.921505)
+						(end 3.74 -0.671505)
+					)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "460fec71-b3cb-42bd-976d-71ae6235abcf")
+	)
+	(embedded_fonts no)
+)
