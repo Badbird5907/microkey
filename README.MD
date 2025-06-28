@@ -1,9 +1,8 @@
 # MicroKey
 This is a FIDO2 security key! It utilizes the RP2350A and [PicoKeys](https://picokeys.com) to implement FIDO2 U2F functionality! Unlike most picokeys, it uses a gold disc like the yubikey to detect touch instead of a tactile button.
 
-![front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/319a6610cd4d4b8ce89658d7a5a06ef02ae25977_kicad_mwjohhiq03.png)
-![back](https://hc-cdn.hel1.your-objectstorage.com/s/v3/695083ac16e32de3bfa580f3a039fdbcd251bd56_kicad_kfkr3kobnb.png)
-
+![front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0d3e9f70d7a21df39e67d9293844a2e444af0b8c_kicad_ka5aqazpym.png)
+![back](https://hc-cdn.hel1.your-objectstorage.com/s/v3/670e242f51b1208eca79b329298adbf2f0d1d51b_kicad_gkpmfggj78.png)
 
 # BOM
 |Manufacturer                          |Description                                                                                                        |Quantity|Unit Price($)|Ext.Price($)|
