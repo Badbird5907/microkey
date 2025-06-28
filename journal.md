@@ -1,3 +1,5 @@
+Total time spent: 15h
+
 # 6/26
 Time spent: 1h
 
@@ -20,4 +22,11 @@ I did finally get it to work, though.
 
 I then decided to swap out the led for something that would shine thru the pcb, so I spent forever finding the perfect led that has the right dimensions, and was in a gullwing package. I finally found the AAA3528RBGS, which is also in stock at LCSC! I then spent a LOT of time redesigning the button footprint (KICAD'S FOOTPRINT EDITOR SUCKS) to include a hole with no copper and only fiberglass, and then redesigning the clock section of the PCB to accommodate the new led footprint.
 
-**TOTAL TIME:** 12h (I literally spent the whole day and night on this, it's 4am now)
+**TOTAL TIME TODAY:** 12h (I literally spent the whole day and night on this, it's 4am now)
+
+# 6/28
+Time spent: 1h
+Optimized some traces, redid BOM
+---
+Time spent: 1h
+Added edge plating, redid BOM
