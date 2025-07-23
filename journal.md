@@ -30,3 +30,8 @@ Optimized some traces, redid BOM
 ---
 Time spent: 1h
 Added edge plating, redid BOM
+
+# 7/20-7/22
+Time spent: 18h
+Assembled parts and reflowed them all onto the PCB.
+I then spent forever developing firmware for the capacitve touch sensor, and finally got it working.

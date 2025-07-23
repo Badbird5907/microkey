@@ -1,4 +1,7 @@
 # MicroKey
+
+Firmware can be found [here](https://github.com/Badbird5907/pico-fido-microkey)
+
 This is a FIDO2 security key! It utilizes the RP2350A and [PicoKeys](https://picokeys.com) to implement FIDO2 U2F functionality! Unlike most picokeys, it uses a gold disc like the yubikey to detect touch instead of a tactile button.
 
 I made this project because I saw the RP2350 could be used as a FIDO2 device with firmware like PicoKeys, and I couldn't find a yubikey-like device designed for PicoKeys. All the devices that were used were devboards, with tactile buttons and long USB cables.
