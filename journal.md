@@ -1,4 +1,4 @@
-Total time spent: 15h
+Total time spent: 33h
 
 # 6/26
 Time spent: 1h
