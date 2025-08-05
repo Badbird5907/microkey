@@ -35,3 +35,6 @@ Added edge plating, redid BOM
 Time spent: 18h
 Assembled parts and reflowed them all onto the PCB.
 I then spent forever developing firmware for the capacitve touch sensor, and finally got it working.
+![20250722_010645](https://github.com/user-attachments/assets/da1ad5f3-5c70-467d-b603-91a61a6c2707)
+![20250722_010655](https://github.com/user-attachments/assets/a7720820-c6cf-4060-aef5-b6d6e7c386ff)
+![20250722_011817](https://github.com/user-attachments/assets/9611ac0e-3019-4240-ac40-84288dff29ba)
