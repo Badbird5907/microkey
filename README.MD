@@ -1,4 +1,5 @@
 # MicroKey
+[Video Demo](https://youtube.com/shorts/Fg3U53FJ8HM)
 
 Firmware can be found [here](https://github.com/Badbird5907/pico-fido-microkey)
 
@@ -8,6 +9,10 @@ I made this project because I saw the RP2350 could be used as a FIDO2 device wit
 
 ![front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0d3e9f70d7a21df39e67d9293844a2e444af0b8c_kicad_ka5aqazpym.png)
 ![back](https://hc-cdn.hel1.your-objectstorage.com/s/v3/670e242f51b1208eca79b329298adbf2f0d1d51b_kicad_gkpmfggj78.png)
+
+![20250722_010645](https://github.com/user-attachments/assets/da1ad5f3-5c70-467d-b603-91a61a6c2707)
+![20250722_010655](https://github.com/user-attachments/assets/a7720820-c6cf-4060-aef5-b6d6e7c386ff)
+![20250722_011817](https://github.com/user-attachments/assets/9611ac0e-3019-4240-ac40-84288dff29ba)
 
 # BOM
 |Manufacturer                          |Description                                                                                                        |Quantity|Unit Price($)|Ext.Price($)|Link                                                                                                                                    |
