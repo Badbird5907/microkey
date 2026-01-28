@@ -7,8 +7,8 @@ This is a FIDO2 security key! It utilizes the RP2350A and [PicoKeys](https://pic
 
 I made this project because I saw the RP2350 could be used as a FIDO2 device with firmware like PicoKeys, and I couldn't find a yubikey-like device designed for PicoKeys. All the devices that were used were devboards, with tactile buttons and long USB cables.
 
-![front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0d3e9f70d7a21df39e67d9293844a2e444af0b8c_kicad_ka5aqazpym.png)
-![back](https://hc-cdn.hel1.your-objectstorage.com/s/v3/670e242f51b1208eca79b329298adbf2f0d1d51b_kicad_gkpmfggj78.png)
+![front](https://i.imgur.com/QukPub5.png)
+![back](https://i.imgur.com/kFCeNC2.png)
 
 ![20250722_010645](https://github.com/user-attachments/assets/da1ad5f3-5c70-467d-b603-91a61a6c2707)
 ![20250722_010655](https://github.com/user-attachments/assets/a7720820-c6cf-4060-aef5-b6d6e7c386ff)
